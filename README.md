@@ -43,7 +43,7 @@ do health outcomes change as a result? How does the
 physical environment of an area (county) affect the health
 outcomes of the population?</p>
 <h2>Dataset</h2>
-<p>or this study and project, we used <a href="https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation">County Health
+<p>For this study and project, we used <a href="https://www.countyhealthrankings.org/explore-health-rankings/rankings-data-documentation">County Health
   Rankings</a>. The data is collected and collated by the
 University of Wisconsin. The data set is publicly available
 and has been collected yearly since roughly 2004. It
