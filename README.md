@@ -4,6 +4,11 @@
 *Note: This repo is not actively maintained - for any questions, please contact one of us through our emails.*
 
 <h2>Project Contributers</h2>
+<tr>
+  <td align ="center">Lily Shaw</br>Angelo State University</br>Dept of Computer Science</br>lilyshaw861@gmail.com</td>
+  <td align ="center">Lily Shaw</br>Angelo State University</br>Dept of Computer Science</br>lilyshaw861@gmail.com</td>
+  <td align ="center">Lily Shaw</br>Angelo State University</br>Dept of Computer Science</br>lilyshaw861@gmail.com</td>
+</tr>
 
 <h2>Faculty Advisor</h2>
 
