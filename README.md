@@ -4,15 +4,20 @@
 *Note: This repo is not actively maintained - for any questions, please contact one of us through our emails.*
 
 <h2>Project Contributers</h2>
-<table>
+<table align="center">
 <tr>
   <td align ="center">Lily Shaw</br>Angelo State University</br>Dept of Computer Science</br>lilyshaw861@gmail.com</td>
-  <td align ="center">Lily Shaw</br>Angelo State University</br>Dept of Computer Science</br>lilyshaw861@gmail.com</td>
-  <td align ="center">Lily Shaw</br>Angelo State University</br>Dept of Computer Science</br>lilyshaw861@gmail.com</td>
+  <td align ="center">Steven Womack</br>Angelo State University</br>Dept of Computer Science</br>swomack5@angelo.edu</td>
+  <td align ="center">Minh Le</br>Angelo State University</br>Dept of Computer Science</br>hle2@angelo.edu</td>
 </tr>
 </table>
 
 <h2>Faculty Advisor</h2>
+<table align="center">
+<tr>
+  <td align ="center">Erdogan Dogduw</br>Angelo State University</br>Professor/Department Chair</br>Dept of Computer Science</br>erdogandogdu@gmail.com</td>
+</tr>
+</table>
 
 <h2>Abstract</h2>
 <p>Using publicly available, county-level data on
