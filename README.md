@@ -1,5 +1,5 @@
 <h1 align="center">Socioeconomic Effects on Health and Well-being Using U.S. County Level Data</h1>
-*Note: This repo is not actively maintained - for any questions, please contact one of us through our emails.*
+*Note: This repo is not actively maintained - for any questions, please contact one of us through our email.*
 
 <h2>Project Contributers</h2>
 <table align="center">
