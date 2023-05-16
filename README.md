@@ -13,7 +13,7 @@
 <h2>Faculty Advisor</h2>
 <table align="center">
 <tr>
-  <td align ="center">Erdogan Dogduw</br>Angelo State University</br>Professor/Department Chair</br>Dept of Computer Science</br>erdogandogdu@gmail.com</td>
+  <td align ="center">Erdogan Dogdu</br>Angelo State University</br>Professor/Department Chair</br>Dept of Computer Science</br>erdogandogdu@gmail.com</td>
 </tr>
 </table>
 
