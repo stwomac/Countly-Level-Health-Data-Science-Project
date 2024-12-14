@@ -5,7 +5,7 @@
 <table align="center">
 <tr>
   <td align ="center">Lily Shaw</br>Angelo State University</br>Dept of Computer Science</br>lilyshaw861@gmail.com</td>
-  <td align ="center">Steven Womack</br>Angelo State University</br>Dept of Computer Science</br>swomack5@angelo.edu</td>
+  <td align ="center">Steven Womack</br>Angelo State University</br>Dept of Computer Science</br>womack.st9@gmail.com</td>
   <td align ="center">Minh Le</br>Angelo State University</br>Dept of Computer Science</br>hle2@angelo.edu</td>
 </tr>
 </table>
